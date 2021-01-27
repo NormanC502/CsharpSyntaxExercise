@@ -1,0 +1,13 @@
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\bin\Debug\netcoreapp3.1\CsharpSyntaxExercise.exe
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\bin\Debug\netcoreapp3.1\CsharpSyntaxExercise.deps.json
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\bin\Debug\netcoreapp3.1\CsharpSyntaxExercise.runtimeconfig.json
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\bin\Debug\netcoreapp3.1\CsharpSyntaxExercise.runtimeconfig.dev.json
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\bin\Debug\netcoreapp3.1\CsharpSyntaxExercise.dll
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\bin\Debug\netcoreapp3.1\CsharpSyntaxExercise.pdb
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\obj\Debug\netcoreapp3.1\CsharpSyntaxExercise.csprojAssemblyReference.cache
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\obj\Debug\netcoreapp3.1\CsharpSyntaxExercise.AssemblyInfoInputs.cache
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\obj\Debug\netcoreapp3.1\CsharpSyntaxExercise.AssemblyInfo.cs
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\obj\Debug\netcoreapp3.1\CsharpSyntaxExercise.csproj.CoreCompileInputs.cache
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\obj\Debug\netcoreapp3.1\CsharpSyntaxExercise.dll
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\obj\Debug\netcoreapp3.1\CsharpSyntaxExercise.pdb
+C:\Users\Norman Calhoun\repos\CsharpSyntaxExercise\CsharpSyntaxExercise\obj\Debug\netcoreapp3.1\CsharpSyntaxExercise.genruntimeconfig.cache
