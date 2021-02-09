@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Dvn8peIzHoNNY7PrhIr7rvomsANfqAznq2Fp7Uo8phEqeup786YtXAPmaB9RxO7tCunqLZThCQwe2OCTkDrXdQ==",
+  "dgSpecHash": "yUiitzPxgYuI+hkY8Gpa38qEuVmhmgtYG3mC/Ws1FtuLIgHylVy2tNcB3vHDTQUlI3Q03diFc9hM/3FqDmDc8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Norman Calhoun\\repos\\CsharpSyntaxExercise\\CsharpSyntaxExercise\\CsharpSyntaxExercise.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Norman Calhoun\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.10\\microsoft.netcore.app.host.win-x86.3.1.10.nupkg.sha512",
+    "C:\\Users\\Norman Calhoun\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.11\\microsoft.netcore.app.host.win-x86.3.1.11.nupkg.sha512",
     "C:\\Users\\Norman Calhoun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Norman Calhoun\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Norman Calhoun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"

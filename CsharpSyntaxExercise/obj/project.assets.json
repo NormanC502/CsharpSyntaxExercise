@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Norman Calhoun\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Norman Calhoun\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -20,13 +19,9 @@
       "packagesPath": "C:\\Users\\Norman Calhoun\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Norman Calhoun\\repos\\CsharpSyntaxExercise\\CsharpSyntaxExercise\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\Norman Calhoun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -67,7 +62,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x86",
-            "version": "[3.1.10, 3.1.10]"
+            "version": "[3.1.11, 3.1.11]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -83,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
